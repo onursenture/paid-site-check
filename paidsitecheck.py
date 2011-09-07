@@ -22,6 +22,7 @@
 
 """
 
+#TODO: github test
 #TODO: api timeout problem
 #TODO: too long "connecting to resources", it can cause api server connection error
 #TODO: add manual parameter, and manual menu
